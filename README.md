@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A passionate frontend developer and aspired to be a full-stack in web development</h3>
 
+---
+
 - 🌱 I’m currently learning **spring boot, flutter, react, bootstrap, etc.**
 
 - 👨‍💻 Here is my portfolio website [https://jnthnpeguit.netlify.app/](https://jnthnpeguit.netlify.app/)
@@ -49,9 +51,3 @@
 </p>
 
 ---
-
-### 🐍 Contribution
-
-<p align="center">
-  <img src="https://github.com/Platane/Platane/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
-</p>

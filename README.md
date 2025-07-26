@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning **spring boot, flutter, react, bootstrap, etc.**
+- 🌱 I’m currently learning **spring boot, flutter, react, bootstrap, and JavaScript**
 
 - 👨‍💻 Here is my portfolio website [https://jnthnpeguit.netlify.app/](https://jnthnpeguit.netlify.app/)
 

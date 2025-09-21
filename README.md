@@ -3,8 +3,6 @@
 
 ---
 
-- 🌱 I’m currently learning **spring boot, flutter, react, bootstrap, and JavaScript**
-
 - 👨‍💻 Here is my portfolio website [https://jnthnpeguit.netlify.app/](https://jnthnpeguit.netlify.app/)
 
 - 💬 Ask me about **java**, it's my first language.

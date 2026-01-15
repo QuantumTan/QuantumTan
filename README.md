@@ -3,11 +3,11 @@
 
 ---
 
-- 👨‍💻 Here is my portfolio website [https://jnthnpeguit.netlify.app/](https://jnthnpeguit.netlify.app/)
+- Here is my portfolio website [https://jnthnpeguit.netlify.app/](https://jnthnpeguit.netlify.app/)
 
-- ⚡ Fun fact **I learn from scratch**
+- Fun fact **I learn from scratch**
 
----
+- University Student
 
 ### 🧠 Languages & Tools
 

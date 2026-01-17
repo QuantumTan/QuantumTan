@@ -33,7 +33,7 @@
   
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,dart,html,css,git,figma&perline=7" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=java,dart,html,css,git,figma,mysql,python&perline=7" alt="My Skills" />
     </a>
   </p>
 </div>

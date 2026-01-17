@@ -1,38 +1,68 @@
-<h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A passionate frontend developer and aspired to be a full-stack in web development</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Hi%20👋,%20I'm%20Jonathan&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
 
----
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+Frontend+Developer;University+Student;I+Learn+From+Scratch;Honing+Skills" alt="Typing SVG" />
+  </a>
 
-- Here is my portfolio website [https://jnthnpeguit.netlify.app/](https://jnthnpeguit.netlify.app/)
+  <br/>
+  <br/>
 
-- Fun fact **I learn from scratch**
+<a href="https://jnthnpeguit.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0072ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-- University Student
+<br/>
+<br/>
 
-### 🧠 Languages & Tools
+<div align="center">
+  <h3>💬 About Me</h3>
+</div>
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
+-  A **BSIT University Student**.
+-  I’m currently learning **Full-Stack Architecture**.
+-  Fun fact: **I learn everything from scratch.**
 
----
+<br/>
+
+<div align="center">
+  <h3>🛠️ Languages & Tools</h3>
+  
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,dart,html,css,git,figma&perline=7" alt="My Skills" />
+    </a>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📫 Get In Touch</h3>
+  
+  <a href="mailto:jonathanjrhayo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jonathan-jr-peguit-a446ba1b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%" alt="footer" />
+</div>

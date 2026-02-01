@@ -26,9 +26,9 @@
   <h3>💬 About Me</h3>
 </div>
 
-- 🎓 **BSIT University Student**
-- 🌱 Currently learning **Full-Stack Architecture**
-- ⚡ Fun fact: **I learn everything from scratch**
+-  **BSIT University Student**
+-  Currently learning **Full-Stack Architecture**
+-  Fun fact: **I learn everything from scratch**
 
 ---
 
@@ -36,7 +36,7 @@
   <h3>🛠️ Languages & Tools</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dart,html,css,git,figma,mysql,python,bootstrap&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,git,github,figma,mysql,python,bootstrap&perline=7" alt="My Skills" />
   </a>
 </div>
 

@@ -8,7 +8,7 @@
   <br/>
   <br/>
 
-  <a href="https://jnthnpeguit.netlify.app/">
+  <a href="https://jnthnpgtport.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0072ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -36,7 +36,7 @@
   <h3>🛠️ Languages & Tools</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dart,html,css,git,figma,mysql,python&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,dart,html,css,git,figma,mysql,python,bootstrap&perline=7" alt="My Skills" />
   </a>
 </div>
 

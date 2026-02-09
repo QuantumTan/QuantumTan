@@ -27,8 +27,7 @@
 </div>
 
 -  **BSIT University Student**
--  Currently learning **Full-Stack Architecture**
--  Fun fact: **I learn everything from scratch**
+- Building from scratch
 
 ---
 

@@ -35,6 +35,42 @@
 
 ---
 
+<div align="center">
+  <h3>📊 GitHub Statistics</h3>
+  <br/>
+
+  <!-- GitHub Stats & Most Used Languages side by side -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=QuantumTan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=0072ff&text_color=ffffff&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumTan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=ffffff&langs_count=8"
+    height="180"
+    alt="Most Used Languages"
+  />
+
+  <br/><br/>
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=QuantumTan&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"
+    alt="GitHub Streak"
+  />
+
+  <br/><br/>
+
+  <!-- Contribution Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumTan&bg_color=0d1117&color=00c6ff&line=0072ff&point=ffffff&area=true&hide_border=true"
+    width="95%"
+    alt="Contribution Graph"
+  />
+</div>
+
+---
 
 <div align="center">
   <h3>📫 Get In Touch</h3>

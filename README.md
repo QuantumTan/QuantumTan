@@ -25,17 +25,12 @@
 
 jonathan@github:~$ cat about_me.txt
 
-  name    : Jonathan
-  role    : BSIT University Student
-  status  : Building from scratch...
-  focus   : Backend development
-
-
 jonathan@github:~$ ls tech_stack/
 
   html/        css/         javascript/   bootstrap/
   java/        python/      mysql/        git/
-  figma/       laravel/
+  figma/       laravel/     c#/           typescript/
+  react/       dart/        flutter/      
 
 
 jonathan@github:~$ git log --oneline --author="QuantumTan"

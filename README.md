@@ -30,7 +30,7 @@ jonathan@github:~$ ls tech_stack/
   html/        css/         javascript/   bootstrap/
   java/        python/      mysql/        git/
   figma/       laravel/     c#/           typescript/
-  react/       dart/        flutter/      
+  react/       dart/        flutter/      postgresql/
 
 
 jonathan@github:~$ git log --oneline --author="QuantumTan"

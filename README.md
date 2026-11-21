@@ -31,6 +31,7 @@ jonathan@github:~$ ls tech_stack/
   java/        python/      mysql/        git/
   figma/       laravel/     c#/           typescript/
   react/       dart/        flutter/      postgresql/
+  jupyter Notebook/
 
 
 jonathan@github:~$ git log --oneline --author="QuantumTan"
